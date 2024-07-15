@@ -43,9 +43,20 @@ To compile and run the program, ensure you have Java installed on your system.
 ## Code Structure
   The code is organized to ensure clarity and separation of concerns. Here is an overview of the main sections:
 
-   Main Menu: Displays the main menu and handles menu navigation.
-   Add Employee: Handles the addition of new employee records.
-   Show Employee: Displays employee records.
-   Remove Employee: Manages the removal of employee records.
-   Update Employee: Handles updating existing employee records.
-   Exit: Manages exiting the application.
+  Main Menu: 
+   Displays the main menu and handles menu navigation.
+
+Add Employee: 
+   Handles the addition of new employee records.
+
+Show Employee: 
+   Displays employee records.
+
+Remove Employee: 
+   Manages the removal of employee records.
+
+Update Employee: 
+   Handles updating existing employee records.
+
+Exit: 
+   Manages exiting the application.
