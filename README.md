@@ -41,13 +41,11 @@ To compile and run the program, ensure you have Java installed on your system.
         java EmployManagementSystem
 
 ## Code Structure
-  The code is organized to ensure clarity and separation of concerns. Here is an overview of the main classes:
+  The code is organized to ensure clarity and separation of concerns. Here is an overview of the main sections:
 
-  EmployManagementSystem.java: The main class that contains the TUI and handles user inputs for various operations.
-  EmployDetail.java: A class representing an employee, including attributes such as ID, name, department, and position.
-  Employee_Add.java: A class responsible for adding new employee records.
-  Employee_Show.java: A class responsible for viewing employee records.
-  Employee_Remove.java: A class responsible for removing employee records.
-  Employee_Update.java: A class responsible for updating existing employee records.
-  MainMenu.java: A class that displays the main menu and handles menu navigation.
-  CodeExit.java: A class that handles exiting the application.
+   Main Menu: Displays the main menu and handles menu navigation.
+   Add Employee: Handles the addition of new employee records.
+   Show Employee: Displays employee records.
+   Remove Employee: Manages the removal of employee records.
+   Update Employee: Handles updating existing employee records.
+   Exit: Manages exiting the application.
