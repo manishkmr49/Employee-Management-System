@@ -27,7 +27,7 @@ To set up the Employee Management System on your local machine, follow these ste
 
 2. Navigate to the project directory:
    ```sh
-  cd Employee-Management-System
+     cd Employee-Management-System
 
 ## Usage
 To compile and run the program, ensure you have Java installed on your system.
