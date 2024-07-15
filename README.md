@@ -2,7 +2,7 @@
 
 A Java-based Text User Interface (TUI) application for managing employee records. The system supports adding, removing, updating, and viewing employee details, utilizing Object-Oriented Programming (OOP) principles for modular and maintainable code.
 
-<img src="Images/Java.png" alt="Java logo">
+![Application Interface Snapshot](\Images\Java.png)
 
 ## Table of Contents
 - [Features](#features)
@@ -60,3 +60,16 @@ Update Employee:
 
 Exit: 
    Manages exiting the application.
+
+## Contributing
+
+   Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request. For major changes, please open an    issue first to discuss what you would like to change.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+   This project is licensed under the MIT License. See the LICENSE file for more information.
